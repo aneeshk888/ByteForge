@@ -1,2 +1,2 @@
 # ByteForge
-Building my own text editor
+Building my own  end-to-end text editor
